@@ -38,10 +38,6 @@ This project is a simple static website that displays the current time for three
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize this description further based on your specific preferences and details about your project!
